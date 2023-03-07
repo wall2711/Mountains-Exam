@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mountains>
+  <mountain>
+    <name>Mount Everest</name>
+    <elevation>8,848 meters</elevation>
+    <range>Himalayas</range>
+    <country>Nepal, Tibet</country>
+  </mountain>
+  <mountain>
+    <name>K2</name>
+    <elevation>8,611 meters</elevation>
+    <range>Karakoram</range>
+    <country>Pakistan, China</country>
+  </mountain>
+  <mountain>
+    <name>Kangchenjunga</name>
+    <elevation>8,586 meters</elevation>
+    <range>Himalayas</range>
+    <country>Nepal, India</country>
+  </mountain>
+</mountains>
+  <mountain>
+    <name>Nanga Parbat</name>
+    <elevation>8,126 meters</elevation>
+    <range>Western Himalayas</range>
+    <country>Philippines</country>
+  </mountain>
+</mountains>
+  <mountain>
+    <name>Makalu</name>
+    <elevation>8,481 meters</elevation>
+    <range>Himalayas</range>
+    <country>Nepal</country>
+  </mountain>
+</mountains>
