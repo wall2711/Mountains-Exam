@@ -5,31 +5,36 @@
     <elevation>8,848 meters</elevation>
     <range>Himalayas</range>
     <country>Nepal, Tibet</country>
+    <history>At 8,849 meters (29,032 feet), it is considered the tallest point on Earth. In the nineteenth century, the mountain was named after George Everest, a former Surveyor General of India. The Tibetan name is Chomolungma, which means “Mother Goddess of the World.” The Nepali name is Sagarmatha, which has various meanings.</history>
   </mountain>
   <mountain>
     <name>K2</name>
     <elevation>8,611 meters</elevation>
     <range>Karakoram</range>
     <country>Pakistan, China</country>
+    <history>The mountain was discovered in 1856 by Col. T.G. Montgomerie of the Survey of India, and it was given the symbol K2 because it was the second peak measured in the Karakoram Range. The name Mount Godwin Austen is for the peak's first surveyor, Col.</history>
   </mountain>
   <mountain>
     <name>Kangchenjunga</name>
     <elevation>8,586 meters</elevation>
     <range>Himalayas</range>
     <country>Nepal, India</country>
+    <history>Until 1852, Kangchenjunga was assumed to be the highest mountain in the world, but calculations and measurements by the Great Trigonometrical Survey of India in 1849 showed that Mount Everest, known as Peak XV at the time, is actually higher.</history>
   </mountain>
 </mountains>
   <mountain>
     <name>Nanga Parbat</name>
     <elevation>8,126 meters</elevation>
     <range>Western Himalayas</range>
-    <country>Philippines</country>
+    <country>Pakistan</country>
+    <history>Nanga Parbat is also unofficially referred to as “Killer Mountain,” in part because at least 31 people died trying to climb it before its incredible first ascent in 1953, completed solo and without oxygen, by the legendary Austrian alpinist Hermann Buhl</history>
   </mountain>
 </mountains>
   <mountain>
     <name>Makalu</name>
     <elevation>8,481 meters</elevation>
     <range>Himalayas</range>
-    <country>Nepal</country>
+    <country>China</country>
+    <history>Makalu was first summited on May 15, 1955 by Lionel Terray and Jean Couzy of a French expedition led by Jean Franco. Jean Franco, Guido Magnone, and Gyalzen Norbu Sherpa reached the top the next day, followed by Jean Bouvier, Serge Coupé, Pierre Leroux, and André Vialatte on the 17th.</history>
   </mountain>
 </mountains>
